@@ -1,0 +1,4 @@
+datetime
+influxdb-client
+meshtastic
+python-dotenv
